@@ -5,10 +5,7 @@ _(Documenting the Journey towards AWS)_
 
 **Today's Progress**
 
-- TBD
-- TBD
-- TBD
-- TBD
+- Refreshing S3 Concepts including security, versioning, fault tolerance and static website hosting.
 
 **Link:**   [AWS S3](https://docs.aws.amazon.com/s3/index.html?id=docs_gateway#lang/en_us)
 
